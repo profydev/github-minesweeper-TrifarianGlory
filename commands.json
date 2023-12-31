@@ -20,6 +20,8 @@
     "Clear E2",
     "Flag F2",
     "Flag F1",
-    "Flag G2"
+    "Flag G2",
+    "Clear G1",
+    "Clear A8"
   ]
 }
