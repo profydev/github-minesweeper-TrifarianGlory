@@ -24,6 +24,8 @@
     "Clear G1",
     "Clear A8",
     "Clear H1",
-    "Clear H2"
+    "Clear H2",
+    "Flag A7",
+    "end"
   ]
 }
